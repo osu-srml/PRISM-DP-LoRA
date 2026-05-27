@@ -52,14 +52,7 @@ python train_eval.py \
   --epsilon 6
 ```
 
-For non-private training:
 
-```bash
-python train_eval.py \
-  --dataset math10k \
-  --method prism \
-  --privacy nondp
-```
 
 ## Common options
 
