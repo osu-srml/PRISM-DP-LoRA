@@ -1,4 +1,4 @@
-# PRISM: command-line reproduction code
+# PRISM
 
 This repository contains a compact command-line version of the code used for the PRISM experiments.  The layout keeps the familiar `LLM-Adapters/` data and output directories, but puts the training and evaluation entry point in one script.
 
